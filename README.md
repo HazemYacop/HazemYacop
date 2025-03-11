@@ -34,12 +34,3 @@ Eyyyy!!! <br />
 I am <b>Hazem Yacop</b>🕵🏼‍♂️. I am from <strong>Egypt <br />
 I'm a guy who love develop new things 🖥️. So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b>. Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-
-<!-- last refresh of readme section -->
-
-Last refresh: <b>Monday, March 10 at 8:00 PM GMT-5</b>
-
-<!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
