@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>GitHub Profile</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #222;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .highlight {
-      background-color: #e0f7fa;
-      padding: 0.2rem 0.4rem;
-      border-radius: 5px;
-      font-family: monospace;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 1.5rem;
-    }
-    .fun-fact {
-      background-color: #fffbe6;
-      padding: 1rem;
-      border-left: 4px solid #ffd54f;
-      border-radius: 6px;
-      margin-top: 1rem;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>👋 Hey there, I’m [Your Name]!</h1>
+ <h1>👋 Hey there, I’m Hazem!</h1>
 
   <div class="section">
     <p>
