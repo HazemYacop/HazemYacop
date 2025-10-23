@@ -8,8 +8,8 @@
 <h2 style="margin-top: 1.5em;">What I Know (so far…)</h2>
 <ul>
   <li><code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></li>
-  <li><code>Node.js</code>, <code>ReactJS</code>, <li><code>NextJS</code>, <li><code>Typescript</code>, <code>ExpressJS</code></li>
-  <li><code>PostgreSQL</code>, <code>jQuery</code>, and more libraries I collect like trading cards 🃏</li>
+  <li><code>Node.js</code>, <code>ReactJS</code>, <code>NextJS</code></li>
+  <li><code>Typescript</code>, <code>ExpressJS</code>, <code>PostgreSQL</code>, <code>jQuery</code>, and more libraries I collect like trading cards 🃏</li>
 </ul>
 
 <h2 style="margin-top: 1.5em;">What I Do</h2>
