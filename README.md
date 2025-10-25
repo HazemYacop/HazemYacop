@@ -1,7 +1,7 @@
 <h1 style="font-size: 2em;">👋 Hey there, I’m Hazem!</h1>
 
 <p>
-  I'm a <strong>self-taught web developer</strong> and a <strong>grade 11 student</strong> on a mission to code my way into the future 
+  I'm a <strong>self-taught web developer</strong> and a <strong>grade 12 highschoolar</strong> on a mission to code my way into the future 
   (and maybe start a startup or two along the way).
 </p>
 
